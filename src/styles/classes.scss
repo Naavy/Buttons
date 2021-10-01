@@ -1,0 +1,24 @@
+@import "./animations.scss";
+
+.number-animation-show,
+.number-animation-show-1,
+.number-animation-show-2 {
+  opacity: 0;
+  animation: opacityShow 2s linear 1;
+}
+
+.number-animation-show-1 {
+  animation-delay: 1s;
+}
+
+.number-animation-show-2 {
+  animation-delay: 2s;
+}
+
+.number-hide {
+  opacity: 0;
+}
+
+.number-animation-display {
+  animation: opacityDisplay 2s linear 1;
+}

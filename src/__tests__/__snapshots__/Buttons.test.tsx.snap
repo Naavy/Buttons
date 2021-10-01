@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Loader component renders properly 1`] = `
+<div
+  class="sc-bdfBQB bfCCdG"
+  data-testid="buttons"
+>
+  <div
+    style="display: flex; justify-content: space-around;"
+  >
+    <button
+      class="sc-gsTEea kzhPZE"
+    >
+      w lewo
+    </button>
+    <button
+      class="sc-gsTEea kzhPZE"
+    >
+      w prawo
+    </button>
+  </div>
+  <div>
+    <button
+      class="sc-gsTEea kzhPZE"
+    >
+      reset
+    </button>
+  </div>
+</div>
+`;
